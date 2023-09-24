@@ -1,0 +1,9 @@
+{
+  "name": "ThirdPersonCam",
+  "version_number": "1.0.2",
+  "website_url": "https://discord.gg/pdHgy6Bsng",
+  "description": "A work in progress ThirdPerson mod. Slapped it together pretty quickly. There are some quirks, but it is usable.",
+  "dependencies": [
+    "SunkenlandModding-BepInExPack_Sunkenland-5.4.22"
+  ]
+}
